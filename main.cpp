@@ -68,6 +68,7 @@ int main() {
     cout << "Die Zinsen betragen bei dieser Anlage " << fErgebnis << " EUR";
     cout << endl << endl;
 
+    // return
     system("pause");
     return 0;
 }
